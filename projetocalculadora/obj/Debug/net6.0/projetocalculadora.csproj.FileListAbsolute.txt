@@ -1,0 +1,15 @@
+C:\Users\jogos\calculadora\projetocalculadora\bin\Debug\net6.0\projetocalculadora.exe
+C:\Users\jogos\calculadora\projetocalculadora\bin\Debug\net6.0\projetocalculadora.deps.json
+C:\Users\jogos\calculadora\projetocalculadora\bin\Debug\net6.0\projetocalculadora.runtimeconfig.json
+C:\Users\jogos\calculadora\projetocalculadora\bin\Debug\net6.0\projetocalculadora.dll
+C:\Users\jogos\calculadora\projetocalculadora\bin\Debug\net6.0\projetocalculadora.pdb
+C:\Users\jogos\calculadora\projetocalculadora\obj\Debug\net6.0\projetocalculadora.csproj.AssemblyReference.cache
+C:\Users\jogos\calculadora\projetocalculadora\obj\Debug\net6.0\projetocalculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jogos\calculadora\projetocalculadora\obj\Debug\net6.0\projetocalculadora.AssemblyInfoInputs.cache
+C:\Users\jogos\calculadora\projetocalculadora\obj\Debug\net6.0\projetocalculadora.AssemblyInfo.cs
+C:\Users\jogos\calculadora\projetocalculadora\obj\Debug\net6.0\projetocalculadora.csproj.CoreCompileInputs.cache
+C:\Users\jogos\calculadora\projetocalculadora\obj\Debug\net6.0\projetocalculadora.dll
+C:\Users\jogos\calculadora\projetocalculadora\obj\Debug\net6.0\refint\projetocalculadora.dll
+C:\Users\jogos\calculadora\projetocalculadora\obj\Debug\net6.0\projetocalculadora.pdb
+C:\Users\jogos\calculadora\projetocalculadora\obj\Debug\net6.0\projetocalculadora.genruntimeconfig.cache
+C:\Users\jogos\calculadora\projetocalculadora\obj\Debug\net6.0\ref\projetocalculadora.dll
